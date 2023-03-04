@@ -17,21 +17,21 @@ superuser: true
 role: PhD Candidate
 
 # Organizations/Affiliations to show in About widget
-[organizations:
+organizations:
   - name: Stanford University
-    url: https://www.stanford.edu/]
+    url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: Hello! I'm Shahin and I'm a PhD candidate in the department of Agricultural Economics at Texas A&M University. 
 
 # Interests to show in About widget
-[interests:
+interests:
   - Artificial Intelligence
   - Computational Linguistics
-  - Information Retrieval]
+  - Information Retrieval
 
 # Education to show in About widget
-[education:
+education:
   courses:
     - course: PhD in Artificial Intelligence
       institution: Stanford University
@@ -41,7 +41,7 @@ bio: Hello! I'm Shahin and I'm a PhD candidate in the department of Agricultural
       year: 2009
     - course: BSc in Artificial Intelligence
       institution: Massachusetts Institute of Technology
-      year: 2008]
+      year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -57,12 +57,12 @@ social:
     label: Follow me on Twitter
     display:
       header: true
-  - [icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen]
+    link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/shabahrami/
